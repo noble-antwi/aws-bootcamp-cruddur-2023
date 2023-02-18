@@ -36,4 +36,7 @@ I drew the logical structure of the app using lucid chart as disp;ayed below:
 ### Creating a Billing Alarm in AWS
 I also created a budget alarm which got triggered later in the week.
 The images below will show the budget creation confirmation as well as the alert when the alarm was triggered.
-![Budget Creation]()
+![Budget Creation](https://github.com/noble-antwi/aws-bootcamp-cruddur-2023/blob/main/journal/assets/budget%20alert.PNG)
+
+Upon creation of the alarm, it got triggered which is indicated below:
+![Budget Creation](https://github.com/noble-antwi/aws-bootcamp-cruddur-2023/blob/main/journal/assets/budget%20confirmation.PNG)
